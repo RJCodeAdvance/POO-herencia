@@ -1,0 +1,6 @@
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.exe.config
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.exe
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\bin\Debug\PracticaPOO.pdb
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\obj\Debug\PracticaPOO.csprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\obj\Debug\PracticaPOO.exe
+D:\RJ Code Advance\Source Code VB\2019\PracticaPOO\PracticaPOO\obj\Debug\PracticaPOO.pdb
